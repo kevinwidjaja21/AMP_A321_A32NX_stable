@@ -1,14 +1,19 @@
 {
   "content": [
     {
+      "path": "html_ui/Pages/A321XE_Utils/NXSpeeds.js",
+      "size": 16408,
+      "date": 132654671271882778
+    },
+    {
       "path": "html_ui/Pages/VCockpit/Instruments/Airliners/A321XE/CDU/A320_Neo_CDU.css",
       "size": 3785,
       "date": 132629722660000000
     },
     {
       "path": "html_ui/Pages/VCockpit/Instruments/Airliners/A321XE/CDU/A321XE_CDU.html",
-      "size": 18800,
-      "date": 132631065094172290
+      "size": 18801,
+      "date": 132654680186726982
     },
     {
       "path": "html_ui/Pages/VCockpit/Instruments/Airliners/A321XE/CDU/A321XE_CDU_IdentPage.js",
@@ -113,7 +118,7 @@
     {
       "path": "SimObjects/AIRPLANES/AMP_Airbus_A321/sound/sound.xml",
       "size": 88052,
-      "date": 132631378256383194
+      "date": 132661469104313910
     },
     {
       "path": "SimObjects/AIRPLANES/AMP_Airbus_A321/Texture/texture.cfg",
