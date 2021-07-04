@@ -3,6 +3,7 @@
  * calls function(gross weight (t)) which returns CAS.
  * Indexes: 0 - Config 1 + F, 1 - Config 2, 2 - Config 3.
  * Sub-Indexes: 0 to 9 represent gross weight (t) in 5t steps from 40 to 80.
+ * For A321, OEW: 48.5 MTOW 93.5, range 50 to 95, MZFW: 73.8
  */
 const to = [
     [
@@ -129,6 +130,7 @@ const vs = [
  * calls function(gross weigh (t), landing gear) which returns CAS, automatically compensates for cg.
  * Indexes: 0 - Clean config, 1 - Config 1 + F, 2 - Config 2, 3 - Config 3, 4 - Config Full, 5 - Config 1.
  * Sub-Indexes: 0 to 9 represent gross weight (t) in 5t steps from 40 to 80.
+ * MLW : 77.8
  */
 const vls = [
     [
