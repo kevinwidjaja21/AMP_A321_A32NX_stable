@@ -13,17 +13,17 @@
       "name": "AMP_A321"
     },
     {
-      "package_version": "0.6.1",
+      "package_version": "0.6.3",
       "name": "A32NX"
     },
     {
-      "package_version": "0.6.1",
+      "package_version": "0.6.3",
       "name": "flybywire-aircraft-a320-neo"
     }
   ],
   "content_type": "AIRCRAFT",
-  "minimum_game_version": "1.9.5",
+  "minimum_game_version": "1.18.15",
   "manufacturer": "Airbus",
   "package_version": "0.1.0",
-  "total_package_size": "0000000000006216559"
+  "total_package_size": "00000000001703269197"
 }
